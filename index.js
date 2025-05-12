@@ -10,7 +10,7 @@ const port = process.env.PORT || 5000;
 const allowedOrigins = [
   "http://localhost:3000",
   "https://medverseproject.netlify.app",
-  "https://refactored-chainsaw-r44694wqgxr435p5p-3000.app.github.dev",
+  "https://3000-mukadaaazzz-medversepro-m4c4u708csv.ws-eu118.gitpod.io",
 ];
 
 const corsOptions = {
